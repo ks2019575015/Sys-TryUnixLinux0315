@@ -1,0 +1,28 @@
+Script started on 2021-03-15 17:25:50+09:00 [TERM="xterm-256color" TTY="/dev/tty2" COLUMNS="84" LINES="21"]
+]0;kjinsun@DESKTOP-69M5PON: ~[01;32mkjinsun@DESKTOP-69M5PON[00m:[01;34m~[00m$ data[Ke [K
+Mon Mar 15 17:26:19 KST 2021
+]0;kjinsun@DESKTOP-69M5PON: ~[01;32mkjinsun@DESKTOP-69M5PON[00m:[01;34m~[00m$ qwd
+
+Command 'qwd' not found, did you mean:
+
+  command 'pwd' from deb coreutils (8.30-3ubuntu2)
+  command 'gwd' from deb geneweb (6.08+git20181019+dfsg-2)
+  command 'xwd' from deb x11-apps (7.7+8)
+  command 'qwo' from deb qwo (0.5-3)
+
+Try: apt install <deb name>
+
+]0;kjinsun@DESKTOP-69M5PON: ~[01;32mkjinsun@DESKTOP-69M5PON[00m:[01;34m~[00m$ ls
+0315
+]0;kjinsun@DESKTOP-69M5PON: ~[01;32mkjinsun@DESKTOP-69M5PON[00m:[01;34m~[00m$ pwd
+/home/kjinsun
+]0;kjinsun@DESKTOP-69M5PON: ~[01;32mkjinsun@DESKTOP-69M5PON[00m:[01;34m~[00m$ ls
+0315
+]0;kjinsun@DESKTOP-69M5PON: ~[01;32mkjinsun@DESKTOP-69M5PON[00m:[01;34m~[00m$ hostname
+DESKTOP-69M5PON
+]0;kjinsun@DESKTOP-69M5PON: ~[01;32mkjinsun@DESKTOP-69M5PON[00m:[01;34m~[00m$ uname
+Linux
+]0;kjinsun@DESKTOP-69M5PON: ~[01;32mkjinsun@DESKTOP-69M5PON[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2021-03-15 17:27:14+09:00 [COMMAND_EXIT_CODE="0"]
